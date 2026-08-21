@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const API_BASE = "https://manshik-santulan-score-1-g5t9.onrender.com";
+  const API_BASE = "http://127.0.0.1:8000";
 
   const form = document.getElementById("predict-form");
   const submitBtn = document.getElementById("submit-btn");
